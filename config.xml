@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>component1-app-40</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<widget id="th.ac.ptnicec.itdep.waerusnee.appcom1" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Ex component1</name>
+    <description>เป็นแอพพลิเคชั่น สอนการใช้คอมโพเนนต์ 1</description>
+    <author email="wwaerusnee@ptnicec.ac.th" href="http://www.ptnicec.ac.th/itptn">ทีมพัฒนาไอทีการอาชีพ 60</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
